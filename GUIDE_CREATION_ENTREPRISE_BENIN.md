@@ -269,11 +269,20 @@ Bénéfice net = Chiffre d'affaires - Charges déductibles
 **Durée :** Généralement 1 à 3 ans selon le secteur et la zone d'implantation
 
 **Secteurs souvent exonérés :**
-- Technologies de l'information (sous conditions)
+- Technologies de l'information (sous conditions) ⭐ **Votre secteur !**
 - Services innovants
 - Zones économiques spéciales
 
-**⚠️ Important :** Vérifier auprès de la DGI les exonérations applicables à votre secteur d'activité.
+**💡 Exonérations spécifiques pour les TIC (Technologies de l'Information et de la Communication) :**
+- Les entreprises du secteur TIC peuvent bénéficier d'exonérations d'impôts sur les bénéfices
+- Durée : Généralement 2 à 5 ans selon les conditions
+- Conditions possibles :
+  - Activité principale dans les TIC
+  - Création d'emplois locaux
+  - Investissement dans la formation
+  - Certification ou agrément spécifique (à vérifier)
+
+**⚠️ Important :** Vérifier auprès de la DGI et du Ministère du Numérique les exonérations applicables spécifiquement aux entreprises TIC. Votre activité de développement web/mobile et automatisation entre probablement dans cette catégorie.
 
 #### Exonération de Patente
 - Première année souvent exonérée
@@ -363,7 +372,16 @@ Bénéfice net = Chiffre d'affaires - Charges déductibles
 
 **Votre agence sera probablement classée dans :**
 - **Secteur :** Services
-- **Sous-secteur :** Services aux entreprises (communication, marketing, conseil, etc.)
+- **Sous-secteur :** Services aux entreprises (développement web/mobile, automatisation, conseil en technologies)
+
+**Spécificités pour une agence de développement web/mobile et automatisation :**
+- **Code APE/NAF :** Services informatiques et conseil en technologies
+- **Nature de l'activité :** Prestations de services intellectuels
+- **Caractéristiques :** 
+  - Activité principalement exportable (clients internationaux possibles)
+  - Faible besoin en stock
+  - Charges principalement en personnel et outils logiciels
+  - Potentiel d'exonération dans le secteur des TIC (Technologies de l'Information et de la Communication)
 
 ### 8.2. Régime Recommandé
 
@@ -383,18 +401,47 @@ Bénéfice net = Chiffre d'affaires - Charges déductibles
 - ❌ Plus de déclarations (trimestrielles)
 - ❌ Comptabilité plus complexe
 
-### 8.3. Charges Déductibles Typiques pour une Agence
+### 8.3. Charges Déductibles Typiques pour une Agence de Développement Web/Mobile
 
-- **Salaires et charges sociales** (si vous vous versez un salaire)
-- **Loyer du bureau** (si vous avez un local)
-- **Matériel informatique** (amortissement sur 3-5 ans)
-- **Logiciels et abonnements** (SaaS, outils de travail)
-- **Frais de communication** (internet, téléphone)
-- **Frais de déplacement** (missions clients)
-- **Formation** (développement des compétences)
-- **Marketing et publicité**
-- **Frais bancaires**
-- **Assurances professionnelles**
+**Charges spécifiques à votre activité :**
+
+- **Salaires et charges sociales** (si vous vous versez un salaire ou employez des développeurs)
+- **Loyer du bureau/co-working** (si vous avez un local physique)
+- **Matériel informatique** (ordinateurs, serveurs, équipements réseau) - Amortissement sur 3-5 ans
+- **Logiciels et abonnements SaaS :**
+  - Abonnements Make.com, n8n (automatisation)
+  - Licences de développement (IDE, outils de design)
+  - Hébergement web et cloud (AWS, Google Cloud, Azure, etc.)
+  - Outils de gestion de projet (Jira, Trello, Asana, etc.)
+  - Outils de communication (Slack, Zoom, etc.)
+  - Outils de versioning (GitHub, GitLab)
+  - Licences de logiciels (Adobe Creative Suite, etc.)
+- **Frais de communication** (internet haut débit, téléphone, mobile)
+- **Frais de déplacement** (missions clients, conférences, formations)
+- **Formation et certifications** :
+  - Certifications Make.com, n8n
+  - Formations techniques (React Native, Flutter, etc.)
+  - Conférences et événements tech
+- **Marketing et publicité** :
+  - Publicité en ligne (Google Ads, Facebook Ads)
+  - Site web et SEO
+  - Portfolio et démonstrations
+- **Frais bancaires** (compte professionnel, frais de transaction)
+- **Assurances professionnelles** :
+  - Assurance responsabilité civile professionnelle
+  - Assurance cyber-risques (recommandé pour les développeurs)
+- **Services externes** :
+  - Prestations de sous-traitance (si vous externalisez certaines tâches)
+  - Services de design UI/UX
+  - Services de test et QA
+- **Frais de dépôt et maintenance d'applications** :
+  - Frais Apple Developer Program (99$/an)
+  - Frais Google Play Developer (25$ une fois)
+  - Frais de certificats SSL
+- **Frais de documentation et outils de développement** :
+  - Documentation technique
+  - Outils de monitoring et analytics
+  - Services de backup et sécurité
 
 ---
 
