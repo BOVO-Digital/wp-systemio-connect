@@ -1,6 +1,7 @@
 # Guide Spécifique : Création d'Agence de Développement Web/Mobile & Automatisation au Bénin
 
-**Guide personnalisé pour William AKLAMAVO & Vicentia BONOU**
+**Guide personnalisé pour Bovo Digital**  
+**Fondateurs : William AKLAMAVO & Vicentia BONOU**
 
 ---
 
@@ -9,11 +10,15 @@
 1. [Votre Profil d'Activité](#1-votre-profil-dactivité)
 2. [Spécificités Fiscales pour les TIC](#2-spécificités-fiscales-pour-les-tic)
 3. [Objet Social Recommandé](#3-objet-social-recommandé)
-4. [Facturation et Gestion des Prestations](#4-facturation-et-gestion-des-prestations)
-5. [Charges Spécifiques à Votre Activité](#5-charges-spécifiques-à-votre-activité)
-6. [Clients Internationaux et TVA](#6-clients-internationaux-et-tva)
-7. [Optimisation Fiscale Légale](#7-optimisation-fiscale-légale)
-8. [Checklist Spécifique](#8-checklist-spécifique)
+4. [Stratégie de Croissance et Objectifs](#4-stratégie-de-croissance-et-objectifs)
+5. [Marketing et Acquisition Clients](#5-marketing-et-acquisition-clients)
+6. [Monétisation des Réseaux Sociaux](#6-monétisation-des-réseaux-sociaux)
+7. [Facturation et Gestion des Prestations](#7-facturation-et-gestion-des-prestations)
+8. [Charges Spécifiques à Votre Activité](#8-charges-spécifiques-à-votre-activité)
+9. [Clients Internationaux et TVA](#9-clients-internationaux-et-tva)
+10. [Optimisation Fiscale Légale](#10-optimisation-fiscale-légale)
+11. [Projections Financières Bovo Digital](#11-projections-financières-bovo-digital)
+12. [Checklist Spécifique](#12-checklist-spécifique)
 
 ---
 
